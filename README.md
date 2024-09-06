@@ -1,5 +1,5 @@
 # Plant-Disease-Detection
-/b Overview
+Overview
 The Plant Leaf Disease Detection System is a machine learning-based solution designed to detect and classify diseases in plant leaves using image data. The project utilizes Python along with libraries such as TensorFlow and Keras for deep learning and image classification. The system can be applied to help farmers and agricultural professionals identify diseases early, potentially reducing crop damage and improving yield.
 
 Features
